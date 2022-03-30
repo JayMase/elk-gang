@@ -1,4 +1,4 @@
-#Elk Gang NFT
+# Elk Gang NFT
 
 I don't plan to publicly release any plans for this ahead of time.
 Here is the only roadmap I will provide, but know this:
@@ -12,7 +12,7 @@ The public roadmap:
 - 130 NFT's, 100 available to public 30 held for myself and giveaways
 - S1 shortly after S0 mint
 
-##An NFT Experience Like No Other
+## An NFT Experience Like No Other
 
 Follow along the journey with me as I create a groundbreaking NFT project
 Get in for free. Mint date releasing soon. 
